@@ -3,6 +3,7 @@
 - 🌱 I’m currently studying Data Science bootcamp at HyperionDev.
 - 💞️ I’m looking to collaborate on data engineer level.
 - 📫 Reach me on amitbpatel1820@gmail.com
+- If you want to see my testing related repos then visit amitpatel2018
 
 <!---
 amitpatel2024/amitpatel2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
